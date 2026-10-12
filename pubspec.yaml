@@ -16,6 +16,7 @@ dependencies:
   # Banco de Dados Local
   sqflite: ^2.3.0
   path_provider: ^2.1.1
+  path: ^1.9.0
   
   # Animações do Pet
   lottie: ^2.7.0
