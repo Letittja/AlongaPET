@@ -33,7 +33,6 @@ O projeto foi construído utilizando o framework **Flutter** e segue os princíp
 
 - Duda Ferreira: UI, Componentização e Grelhas do Log de Sintomas (1º Ano)
 
-- Carlos Junior: UI, Interações e Lógica de Ação do Log de Sintomas (1º Ano)
 
 ## Como executar
 - Clone o repositório:
